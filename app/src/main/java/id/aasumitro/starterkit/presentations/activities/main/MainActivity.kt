@@ -1,4 +1,4 @@
-package id.aasumitro.starterkit.ui.activities.main
+package id.aasumitro.starterkit.presentations.activities.main
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

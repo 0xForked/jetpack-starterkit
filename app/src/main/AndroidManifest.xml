@@ -14,7 +14,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KotlinStarterKit">
         <activity
-            android:name=".ui.activities.main.MainActivity"
+            android:name="id.aasumitro.starterkit.presentations.activities.main.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

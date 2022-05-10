@@ -1,4 +1,4 @@
-package id.aasumitro.starterkit.ui.activities.main
+package id.aasumitro.starterkit.presentations.activities.main
 
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
