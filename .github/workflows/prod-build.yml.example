@@ -1,0 +1,9 @@
+#- name: Build Signed APK
+#  uses: victorbnl/build-signed-apk@main
+#  with:
+#    keystore: ${{ secrets.keystore }}
+#    keystore_password: ${{ secrets.keystore_password }}
+#    key_alias: ${{ secrets.key_alias }}
+#    key_password: ${{ secrets.key_password }}
+
+#The APK is built at the default location, which is: app/build/outputs/apk/release/app-release.apk. Feel free to do whatever you want with this apk now, like creating a release with it or putting it as an artifact of the release
